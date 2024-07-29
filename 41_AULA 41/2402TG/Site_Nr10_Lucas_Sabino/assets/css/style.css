@@ -1,0 +1,115 @@
+header {
+    background-color: #69014a;
+    margin: 10px;
+    padding: auto;
+
+}
+body{
+background-color: #69014a;
+
+}
+
+div{
+
+    background-color: #69014a;
+    color: white;
+}
+
+
+div{
+    text-align: color white;
+}
+table, th, td {
+    text-align: center;
+    border: 1px solid;
+    width: 100%;
+    background-color: #69014a;
+    color: white;
+  }
+
+.title,p,strong,h1,h3,div,{
+    text-decoration: white;   
+     background-color: #69014a;
+    text-align: center;
+    color: white;
+
+}
+
+.texto{
+
+    text-align: center;
+    font-size: 1px;
+}
+ button {
+
+    border-radius: 50px;
+    font-family: Arial;
+    text-align: center;
+    padding-bottom: 5px;
+    margin: 0 15px;
+    font-size: 20px;
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
+
+}
+.botao:active {
+background-color: rgb(255, 0, 0);
+
+}
+
+.logo {
+    text-align: center;
+    height:150px;
+    width: 1300px;
+    background-color: #69014a; 
+    
+}
+.imageslogo-guia-trabalhista{
+    height:200px;
+    width: 200px;
+    background-color: #69014a;
+}
+
+.botao{
+    text-align: center;
+
+
+}
+.buttonido{
+    color: rgb(255, 0, 0);
+    border-radius: 50px;
+    font-family: Arial;
+    text-align: center;
+    padding-bottom: 5px;
+    margin: 0 15px;
+    font-size: 20px;
+    background-color:;
+    display:block;
+}
+
+footer{
+    list-style: none;
+    text-align: center color;
+    text-decoration-color;
+    padding: 1px;
+    display: inline-block;
+    font-size: 10px color;
+    margin: 2px 2px;
+    cursor: pointer;
+    transition:  background-color 0.10s;
+}
+title,h4,h2{
+    background-color: #e9a0d3;
+    color: #69014a;
+    text-align: center;}
+.title{
+        background-color: #e9a0d3;
+        color: #69014a;
+        text-align: center;
+}
+.assinatura{
+    
+    text-align: center;
+    margin: 5px;
+    color: white;
+}
